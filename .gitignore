@@ -1,0 +1,7 @@
+isaacgym*
+.ipynb_checkpoints/
+.vscode/
+*img
+*__pycache__*
+fbx/
+**/__pycache__/ASE/ase/poselib/data/CMU_fbx.zip

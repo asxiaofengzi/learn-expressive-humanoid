@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="051f88c8-16ea-4601-bfc3-ad65b02d99c0" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/legged_gym/legged_gym/envs/h1/h1_mimic.py" beforeDir="false" afterPath="$PROJECT_DIR$/legged_gym/legged_gym/envs/h1/h1_mimic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legged_gym/legged_gym/envs/h1/h1_mimic_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/legged_gym/legged_gym/envs/h1/h1_mimic_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legged_gym/legged_gym/scripts/play.py" beforeDir="false" afterPath="$PROJECT_DIR$/legged_gym/legged_gym/scripts/play.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legged_gym/legged_gym/scripts/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/legged_gym/legged_gym/scripts/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legged_gym/legged_gym/utils/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/legged_gym/legged_gym/utils/helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legged_gym/legged_gym/utils/task_registry.py" beforeDir="false" afterPath="$PROJECT_DIR$/legged_gym/legged_gym/utils/task_registry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legged_gym/legged_gym/utils/webviewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/legged_gym/legged_gym/utils/webviewer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rsl_rl/rsl_rl/runners/on_policy_runner_mimic.py" beforeDir="false" afterPath="$PROJECT_DIR$/rsl_rl/rsl_rl/runners/on_policy_runner_mimic.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AlexRoyM&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://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@github.com/asxiaofengzi/learn_expressive-humanoid.git&quot;,
+    &quot;accountId&quot;: &quot;3fa53796-e305-4a51-8ac7-b2fdb27fb815&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2mCkH9LlBxIBTAwiaNbGxv8Srjr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.env.executor": "Run",
+    "Python.fbx_importer_all.executor": "Run",
+    "Python.play.executor": "Run",
+    "Python.retarget_motion_h1_all.executor": "Run",
+    "Python.train.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/js/xiaofengzi/ASE",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ASE/ase/poselib/data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="play" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="expressive-humanoid" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/legged_gym/legged_gym/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/legged_gym/legged_gym/scripts/play.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="expressive-humanoid" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/legged_gym/legged_gym/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/legged_gym/legged_gym/scripts/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.play" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="051f88c8-16ea-4601-bfc3-ad65b02d99c0" name="更改" comment="" />
+      <created>1726587854702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726587854702</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ASE/ase/utils/motion_lib.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/legged_gym/legged_gym/scripts/play.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/legged_gym/legged_gym/scripts/train.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
